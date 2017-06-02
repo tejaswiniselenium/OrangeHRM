@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/extentreports-java-2.40.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/reflections-0.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitanya/HRM_AutomationFinalVersion4.0/JarFiles/Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
